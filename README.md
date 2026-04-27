@@ -11,5 +11,5 @@ My primary research codebase is hosted on our private institutional GitLab, wher
 
 Neuro-LLM Pipelines: Utilizing Llama 3.1 for clinical narrative analysis.
 
-Preprocessing Suites: Automated cleaning for neuropsychological datasets.
+Preprocessing Suites: A specialized cleaning and filtering pipeline for large-scale Reddit corpora.
 
